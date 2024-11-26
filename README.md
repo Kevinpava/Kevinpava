@@ -32,7 +32,7 @@ Estoy profundizando en visualización de datos y técnicas de aprendizaje autom�
 ### 📫 ¡Conectemos!
 No dudes en contactarme si deseas colaborar o simplemente charlar sobre datos. 
 
-[LinkedIn](your_linkedin_profile) | [Twitter](your_twitter_profile) | [Sitio Web Personal](your_website)
+[LinkedIn](your_linkedin_profile) 
 
 ---
 
